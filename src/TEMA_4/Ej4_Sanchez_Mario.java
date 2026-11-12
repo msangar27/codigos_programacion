@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package TEMA_4;
+
 import java.util.Scanner;
 
 public class Ej4_Sanchez_Mario {

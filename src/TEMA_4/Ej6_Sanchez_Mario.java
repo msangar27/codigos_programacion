@@ -1,3 +1,5 @@
+package TEMA_4;
+
 import java.util.Scanner;
 
 public class Ej6_Sanchez_Mario {

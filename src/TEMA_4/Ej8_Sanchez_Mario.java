@@ -1,4 +1,5 @@
-import java.io.PrintStream;
+package TEMA_4;
+
 import java.util.Scanner;
 
 public class Ej8_Sanchez_Mario {

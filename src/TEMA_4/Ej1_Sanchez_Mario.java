@@ -1,3 +1,5 @@
+package TEMA_4;
+
 public class Ej1_Sanchez_Mario {
     public static void main(String[] args) {
 
