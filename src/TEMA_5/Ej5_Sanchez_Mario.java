@@ -6,7 +6,7 @@ public class Ej5_Sanchez_Mario {
     public static void main(String[] args) {
 
 
-        int num, resultado=1;
+        int num, resultado = 1;
         Scanner sc = new Scanner(System.in);
 
         do {
@@ -15,9 +15,9 @@ public class Ej5_Sanchez_Mario {
         } while (num < 0);
 
         do {
-            resultado=resultado*num;
+            resultado = resultado * num;
             num--;
-        } while(num!=1);
+        } while (num != 1);
 
         System.out.printf("%nEl factorial del número introducido es: %d", resultado);
     }

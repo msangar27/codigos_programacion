@@ -6,7 +6,7 @@ public class Ej3_Sanchez_Mario {
         System.out.println("Los números pares del 1 al 200 son: ");
 
         for (int i = 1; i <= 200; i++) {
-            if (i%2==0) {
+            if (i % 2 == 0) {
                 System.out.printf("%d%n", i);
             }
         }

@@ -20,7 +20,7 @@ public class Ej6_Sanchez_Mario {
             }
         }while(i!=11);
 
-        if (negativo){
+        if (negativo) {
             System.out.println("Se ha introducido algún número negativo");
         } else {
             System.out.println("No se ha introducido ningún número negativo");
