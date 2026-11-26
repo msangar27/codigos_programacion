@@ -1,0 +1,8 @@
+package ENDES;
+
+public class Ej6_Saludo {
+    public static void main(String[] args) {
+        String mensaje = "Hola mundo!";
+        System.out.println(mensaje);
+    }
+}
